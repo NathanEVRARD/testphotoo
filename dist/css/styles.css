@@ -1,0 +1,15 @@
+div.images-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img{
+    margin: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 10px;
+}
